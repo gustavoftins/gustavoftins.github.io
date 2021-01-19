@@ -3,11 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://gustavoftins.github.io/categories/</loc>
+    <loc>https://gustavoftins.github.io/archives/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gustavoftins.github.io/contact/</loc>
+    <lastmod>2019-03-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gustavoftins.github.io/about/</loc>
+    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://gustavoftins.github.io/</loc>
+  </url>
+  
+  <url>
+    <loc>https://gustavoftins.github.io/categories/</loc>
   </url>
   
   <url>
